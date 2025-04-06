@@ -26,11 +26,11 @@ body {
     color: #2e2f42;
 }
 
-.logo-ulstudio>a:hover {
+.logo-ulstudio:hover {
     color: #404bbf;
 }
 
-.logo-ulstudio>a:focus {
+.logo-ulstudio:focus {
     color: #404bbf;
 }
 
