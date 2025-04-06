@@ -18,7 +18,7 @@ body {
     color: #2e2f42;
 }
 
-.logo-ul-studio {
+.logo-ulstudio {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -26,11 +26,11 @@ body {
     color: #2e2f42;
 }
 
-.logo-ul-studio a:hover {
+.logo-ulstudio a:hover {
     color: #404bbf;
 }
 
-.logo-ul-studio a:focus {
+.logo-ulstudio a:focus {
     color: #404bbf;
 }
 
@@ -103,7 +103,7 @@ body {
     background-color: #F4F4FD;
 }
 
-.team-h2 {
+.team-hj {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -159,7 +159,7 @@ body {
     background-color: #2e2f42;
 }
 
-.logo2 {
+.logoj {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -169,7 +169,7 @@ body {
     color: #4d5ae5;
 }
 
-.logo-studio2 {
+.logo-studioj {
     color: #F4F4FD;
 }
 
