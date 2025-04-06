@@ -52,3 +52,34 @@ body {
 .link-address:focus {
     color: #404bbf;
 }
+
+.beginning {
+    background-color: #2e2f42;
+}
+
+.beginning-head {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffff
+}
+
+.beginning-button {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.beginning-button:hover {
+    background-color: #404BBF;
+}
+
+.beginning-button:focus {
+    background-color: #404BBF;
+}
